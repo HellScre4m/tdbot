@@ -4,5 +4,5 @@
 -iquote td/tdactor
 -iquote td/td/generate
 -iquote td/td/generate/default_td_api
--I /usr/include/lua5.1
+-I /usr/local/include/luajit/
 -std=c++14

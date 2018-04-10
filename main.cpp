@@ -19,6 +19,7 @@
 #include "telegram.h"
 #include "cliclient.hpp"
 #include "lua.h"
+#include "luajit.h"
 
 #define CONFIG_DIRECTORY ".telegram-bot" 
 #define CONFIG_DIRECTORY_MODE 0700
